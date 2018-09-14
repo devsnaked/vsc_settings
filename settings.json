@@ -1,0 +1,28 @@
+{
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": false,
+    "window.zoomLevel": -1,
+    "editor.fontSize": 18,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.sideBar.location": "left",
+    "materialTheme.fixIconsRunning": false,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Terminus",
+    "workbench.colorTheme": "Blink Contrast (rainglow)",
+    "breadcrumbs.enabled": true,
+    "workbench.editor.showTabs": false,
+    "editor.fontLigatures": true,
+    "todo-tree.defaultHighlight": {
+        "foreground": "green",
+        "type": "none"
+    },
+    "todo-tree.customHighlight": {
+        "TODO": {},
+        "FIXME": {}
+    },
+    "todo-tree.tags": [
+        "TODO",
+        "FIXME",
+        "teste"
+    ],
+}
